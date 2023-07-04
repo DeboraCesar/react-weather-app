@@ -1,0 +1,36 @@
+.Search {
+    margin: 20px 0;
+}
+
+.Search .search-field {
+    padding: 6px 10px;
+    width: 50%;
+    border-color: rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 4px;
+}
+
+.Search .search-button {
+    padding: 6px 18px;
+    border-radius: 6px;
+    background-color: #0bc4fd;
+    color: #fff;
+    border: none;
+    margin-left: 4px;
+}
+
+.Search .search-button.green {
+    background-color: #193c87;
+}
+
+.weather {
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.weather li {
+    list-style-type: none;
+}
+
+.weather ul {
+    padding: 0;
+}
